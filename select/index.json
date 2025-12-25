@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Mistletoe (Official Music Video)",
+  "base_artist": "Justin Bieber",
+  "createdAt": "2025-12-25T11:27:47.070811Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mr. Mistletoe",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/01_Mr._Mistletoe_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Mistletoe & Me",
+      "artist": "Isaac Hayes",
+      "has_synced": true,
+      "path": "select/02_The_Mistletoe_&_Me_Isaac_Hayes.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mistletoe",
+      "artist": "Colbie Caillat",
+      "has_synced": true,
+      "path": "select/03_Mistletoe_Colbie_Caillat.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mistletoe and Wine",
+      "artist": "Cliff Richard",
+      "has_synced": true,
+      "path": "select/04_Mistletoe_and_Wine_Cliff_Richard.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mistletoe and Holly",
+      "artist": "Frank Sinatra",
+      "has_synced": false,
+      "path": "select/05_Mistletoe_and_Holly_Frank_Sinatra.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Murder by Mistletoe",
+      "artist": "The Felice Brothers",
+      "has_synced": true,
+      "path": "select/06_Murder_by_Mistletoe_The_Felice_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Mistletoe And Me",
+      "artist": "Isaac Hayes",
+      "has_synced": true,
+      "path": "select/07_The_Mistletoe_And_Me_Isaac_Hayes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Underneath the Mistletoe",
+      "artist": "Sia",
+      "has_synced": true,
+      "path": "select/08_Underneath_the_Mistletoe_Sia.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mistletoe (album version)",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/09_Mistletoe_(album_version)_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mistletoe And Holly - Remastered 1999",
+      "artist": "Frank Sinatra",
+      "has_synced": false,
+      "path": "select/10_Mistletoe_And_Holly_-_Remastered_1999_Frank_Sinatra.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Under The Mistletoe",
+      "artist": "Kelly Clarkson feat. Brett Eldredge & Atlantic Holiday",
+      "has_synced": true,
+      "path": "select/11_Under_The_Mistletoe_Kelly_Clarkson_feat._Brett_Eldredge_&_Atlantic_Holiday.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Under the Mistletoe",
+      "artist": "Brett Eldredge",
+      "has_synced": true,
+      "path": "select/12_Under_the_Mistletoe_Brett_Eldredge.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mistletoe And Holly (Remastered 1999)",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/13_Mistletoe_And_Holly_(Remastered_1999)_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It Must Have Been the Mistletoe",
+      "artist": "Barbra Streisand",
+      "has_synced": true,
+      "path": "select/14_It_Must_Have_Been_the_Mistletoe_Barbra_Streisand.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Mistletoe Jam (Everybody Kiss Somebody)",
+      "artist": "Luther Vandross",
+      "has_synced": true,
+      "path": "select/15_The_Mistletoe_Jam_(Everybody_Kiss_Somebody)_Luther_Vandross.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mistletoe",
+      "artist": "Justin Bieber",
+      "has_synced": false,
+      "path": "select/pl_01_Mistletoe_Justin_Bieber.txt"
+    }
+  ]
+}
