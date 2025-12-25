@@ -1,0 +1,71 @@
+# Justin Bieber – Mistletoe (Official Music Video)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:03.03] It's the most beautiful time of the year
+[00:06.64] Lights fill the streets spreading so much cheer
+[00:09.66] I should be playing in the winter snow
+[00:12.19] But imma be under the mistletoe
+[00:27.69] 
+[00:15.38] I don't want to miss out on the holiday
+[00:18.20] But I can't stop staring at your face
+[00:21.29] I should be playing in the winter snow
+[00:24.16] But imma be under the mistletoe
+[00:39.66] 
+[00:26.84] With you, shawty with you
+[00:29.99] With you, shawty with you
+[00:32.69] With you under the mistletoe
+[00:46.69] 
+[00:38.64] Everyone's gathering around the fire
+[00:42.00] Chestnuts roasting like a hot July
+[00:45.06] I should be chillin' with my folks, I know
+[00:48.09] But imma be under the mistletoe
+[01:03.59] 
+[00:50.77] Word on the street Santa's coming tonight,
+[00:54.19] Reindeer's flying in the sky so high
+[00:56.74] I should be making a list I know
+[00:59.80] But imma be under the mistletoe
+[01:15.30] 
+[01:02.31] With you, shawty with you
+[01:05.39] With you, shawty with you
+[01:08.11] With you under the mistletoe
+[01:22.11] 
+[01:13.62] With you, shawty with you
+[01:17.10] With you, shawty with you
+[01:20.03] With you under the mistletoe
+[01:34.03] 
+[01:25.85] Eh, love, the wise men followed the star
+[01:29.40] The way I follow my heart
+[01:32.52] And it led me to a miracle
+[01:45.52] 
+[01:37.52] Eh love, don't you buy me nothing
+[01:41.05] I am feeling one thing, your lips on my lips
+[01:47.22] That's a very, merry Christmas
+[02:02.22] 
+[01:49.86] It's the most beautiful time of the year
+[01:52.80] Lights fill the streets spreading so much cheer
+[01:56.09] I should be playing in the winter snow
+[01:59.05] But imma be under the mistletoe
+[02:14.55] 
+[02:01.58] I don't want to miss out on the holiday
+[02:04.79] But I can't stop staring at your face
+[02:07.65] I should be playing in the winter snow
+[02:10.74] But imma be under the mistletoe
+[02:26.24] 
+[02:13.94] With you, shawty with you
+[02:16.54] With you, shawty with you
+[02:19.04] With you under the mistletoe
+[02:33.04] 
+[02:24.48] With you, shawty with you
+[02:28.24] With you, shawty with you
+[02:31.21] Shawty with you, under the mistletoe
+[02:49.21] 
+[02:37.27] Kiss me underneath the mistletoe
+[02:39.82] Show me baby that you love me so-oh-oh
+[02:42.72] Oh, oh, ohhh
+[02:48.72] 
+[02:48.34] Kiss me underneath the mistletoe,
+[02:51.46] Show me baby that you love me so-oh-oh
+[02:56.37] Oh, oh, ohhh
+```
